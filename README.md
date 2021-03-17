@@ -21,3 +21,6 @@ Versions of tools used:
 - vcstools version: `0.1.40`
 
 
+sudo apt-get install qttools5-dev-tools libqt5svg5-dev qtmultimedia5-dev
+sudo apt-get install qt5-default
+sudo apt-get install libqt5serialport5-dev
